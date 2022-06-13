@@ -1,4 +1,6 @@
 
+/*  Another Comment  */
+
 /*  New Comment */
 
 * Path to project root;
